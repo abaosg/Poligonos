@@ -4,7 +4,7 @@
  */
 
 /**
- * @author b09-05Bm
+ * @author Abraham
  *
  */
 public class Hexagonos extends Poligonos {

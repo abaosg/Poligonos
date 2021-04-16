@@ -22,6 +22,8 @@ public class PoligonosApp {
 		System.out.printf("Perimetro cuadrado %f %n",cuadrado.perimetro());
 		System.out.printf("Superficie cuadrado %f %n",cuadrado.superficie());
 		
+		Hexagono hexagono= new Hexagono(20);
+		
 		/*
 		double sum=triangulo.sumaAreas(triangulo);
 		sum=triangulo2.sumaAreas(triangulo2);
